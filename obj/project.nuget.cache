@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSRdVpAyAaDokz/QFxR9lo4XLPI9amonKwTRSNQ+lHfPuVA2y8t5L54fD4op3+tPMX94KD4cgofSx20vi8mABQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drit0046\\VSCode\\HelpLone\\HelpLone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drit0046\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
